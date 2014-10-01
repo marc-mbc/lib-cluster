@@ -1,0 +1,10 @@
+{
+  "name": "lib-cluster",
+  "description": "Micro Service cluster library",
+  "author": "Marc Blando",
+  "email": "marc.blando@engrande.com",
+  "private": true,
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "dependencies": {}
+}
