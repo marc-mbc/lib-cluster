@@ -4,7 +4,7 @@
   "author": "Marc Blando",
   "email": "marc.blando@engrande.com",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "./lib/main",
   "dependencies": {}
 }
