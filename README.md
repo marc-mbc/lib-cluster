@@ -1,5 +1,5 @@
 <h1>Cluster</h1>
-<p>This is a cluster library for budgetplaces. It can be improved in order to follow a common standard for the whole company</p>
+<p>This is a cluster library</p>
 
 <p>In order to init the module it's needed an instance Constructor for the service (worker), a config instance with cluster config and bunyan instance as a log.</p>
 <p>Example: require('lib-cluster').init(Api, config, log); </p>
